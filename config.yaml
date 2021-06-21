@@ -1,39 +1,34 @@
 api_key: ADD_HEAR_API_KEY
 home_text: |
-    Sputnik Navigation Bot shows you market prices of pairs, that can be created with:
-    $ATOM 🔹 $KAVA 🔹 $IOV 🔹
-    $HARD 🔹 $USDX 🔹 $SCRT 🔹
+    Sputnik Navigation shows you actual prices for 20 different tokens, and for pairs that can be created with this tokens, in one click!
+    Price data is taken from the https://www.coingecko.com/
+    Sputnik Navigation is an add-on for P2P-exchange bot: @SputnikNetworkBot
+    Sputnik Navigation will help you to trade on Osmosis and Gravity DEX
     
-    P2P-exchange bot for the Cosmos Ecosystem: @SputnikNetworkBot
-
-projects_text: "Enter the list of interesting projects in the chat, separated by commas. Names like in coingecko.Send 0 to delete the list. Reply to this message. Examples: "
+    
+projects_text: "Reply to this message with the names of projects that need to be displayed in the chat. Separate names by commas. Use names like in CoinGecko. Reply with 0 to show all projects. Examples: "
 projects_added: |
  Ok. Chat projects added.
 
 help_text: |
-    🛰️ Sputnik Navigation 🛰️ is a part of the Sputnik Network - from Community for Community project of the Cosmos Ecosystem
-    🛰️ Sputnik Navigation 🛰️ shows the current prices for all pairs, that can be traded at p2p-exchange of the Sputnik Network
+    🛰️ Sputnik Navigation 🛰️ is an add-on for P2P-exchange bot: @SputnikNetworkBot
     
-    🔹 The actual price of tokens is taken from CoinGecko.com
-    
-    🔹 To receive, send and exchange tokens - use \"Sputnik\" button, or follow the @SputnikNetworkBot
+    🔹 To receive, send and exchange tokens - click \"Sputnik\" button, or go to @SputnikNetworkBot
     
     🔹 Video guide \"how to use the Sputnik: youtu.be/NwiI6xXkMcw
     
-    🔹 Add 🛰️ Sputnik Navigation 🛰️ to any Telegram-group, and members will have ability to get data on prices of the Cosmos Ecosystem tokens
+    🔹 Add @SputnikPriceBot to any Telegram-group, and all members will have ability to call the list of prices
     
-    🔹 If you have any questions, write to technical support: @SputnikNetwork
+    🔹 Admin of group can programm 🛰️ Sputnik Navigation 🛰️ to show only several projects. For this: sending comand /projects to chat and reply to message from bot with the list of projects
+    
+    🔹 Technical support: @SputnikNetwork
     
     Main group: @Sputnik_Network
-    
     News channel: @SputnikDish
-    
     Art channel: @TelescopeART
-    
     Web: sputnik.exchange
-    
     TW: twitter.com/SputnikNetwork
 
-tokens: akash-network,band-protocol,binancecoin,certik,cosmos,fetch-ai,hard-protocol,iris-network,kava,ki,mina-protocol,persistence,secret,sentinel,sifchain,solana,starname,terra-luna,usdx
-tokens_sites: https://akash.network,https://bandprotocol.com/,https://binance.org,https://www.certik.foundation/,https://cosmos.network,https://fetch.ai/,https://www.kava.io/hard-protocol,https://www.irisnet.org/,https://kava.io,https://foundation.ki/,https://minaprotocol.com/,https://persistence.one/,https://scrt.network,https://sentinel.co/,https://sifchain.finance/,https://solana.com/,https://starname.me,https://terra.money/,https://www.kava.io/overview
+tokens: akash-network,band-protocol,crypto-com-coin,binancecoin,certik,cosmos,fetch-ai,hard-protocol,iris-network,kava,ki,mina-protocol,persistence,secret,sentinel,sifchain,solana,starname,terra-luna,usdx
+tokens_sites: https://akash.network,https://bandprotocol.com/,https://crypto.com/,https://binance.org,https://www.certik.foundation/,https://cosmos.network,https://fetch.ai/,https://www.kava.io/hard-protocol,https://www.irisnet.org/,https://kava.io,https://foundation.ki/,https://minaprotocol.com/,https://persistence.one/,https://scrt.network,https://sentinel.co/,https://sifchain.finance/,https://solana.com/,https://starname.me,https://terra.money/,https://www.kava.io/overview
 image_path: https://dpos.space/cosmos-prices/images/
